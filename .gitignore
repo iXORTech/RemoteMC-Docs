@@ -2,3 +2,8 @@
 build/
 venv/
 .DS_Store
+
+# sphinx internationalization
+**/.doctrees/
+**/*.mo
+**/*.pot

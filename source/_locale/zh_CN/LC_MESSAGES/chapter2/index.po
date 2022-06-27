@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022 iXOR Technology & Cubik65536
+# This file is distributed under the same license as the RemoteMC package.
+# Cubik65536 <cubik65536@cubik65536.top>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RemoteMC \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-26 23:00-0400\n"
+"POT-Creation-Date: 2022-06-26 23:00-0400\n"
+"Last-Translator: Cubik65536 <cubik65536@cubik65536.top>\n"
+"Language: zh\n"
+"Language-Team: Chinese Simplified\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../chapter2/index.md:1
+msgid "Chapter 2"
+msgstr "第二章"
+
+#: ../chapter2/index.md:3
+msgid "Section 1"
+msgstr "第一节"
+
+#: ../chapter2/index.md:5
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim "
+"veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea "
+"commodo consequat. Duis aute irure dolor in reprehenderit in voluptate "
+"velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint "
+"occaecat cupidatat non proident, sunt in culpa qui officia deserunt "
+"mollit anim id est laborum."
+msgstr "但我得向你解释，所有这些谴责快乐和颂扬痛苦的错误观念是如何产生的。"
+"为此，我会向你一五一十地说明这一体系，并阐述伟大的真理探索者、人类幸福的杰出"
+"建设者的真实教义。没有人因为快乐是快乐而拒绝、厌恶或回避快乐本身，而是因为"
+"不知道如何理性地追求快乐的人会遭遇极其痛苦的后果。也没有人因痛苦是痛苦而喜欢"
+"或追求或渴望获得痛苦本身，但也偶有辛劳和痛苦能带来极大的快乐的情景。举个微不足道"
+"的例子，若不是从中获得好处，我们当中有谁会进行艰苦的体育锻炼？但是，倘若没有恼人的后果，"
+"谁有权利指责选择享受快乐的人呢，或者倘若得不到相应快乐，谁能谴责选择避免痛苦的人呢？"
+"另一方面，我们以正义的愤慨谴责并厌恶那些被及时行乐迷惑得萎靡不振，被欲望蒙蔽得看不见"
+"大难临头的人；因意志软弱而不能履行职责的人，也应受到同样的谴责，这无异于在辛劳和痛苦前退缩。"
+"这些情况非常简单且容易区分。闲暇时，当我们的选择权不受限制，当没有什么可以阻止我们做自己最喜欢的"
+"事情时，任何快乐都应该受到欢迎，任何痛苦都应该避免。但是在某些情况下，由于责任或商业义务的要求，"
+"不时会有不得不拒绝享乐而接受烦恼的情况。因此，智者在这些事情上总是坚持选择的原则："
+"拒绝快乐以获得更大的快乐，或者忍受痛苦以避免更重的痛苦"

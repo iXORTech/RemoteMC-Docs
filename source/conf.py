@@ -1,3 +1,13 @@
+# -- Path setup --------------------------------------------------------------
+
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+#
+import os
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join('..', '..')))
+
 # Configuration file for the Sphinx documentation builder.
 #
 # This file only contains a selection of the most common options. For a full
@@ -51,6 +61,21 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+
+# -- Options for sphinx-intl -------------------------------------------------
+
+# https://docs.readthedocs.io/en/stable/builds.html#build-environment
+# available languages: en_US, zh_CN
+language = os.environ.get('READTHEDOCS_LANGUAGE', 'zh_CN')
+
+# To update locale files, execute these in source directory:
+# sphinx-build -b gettext . _locale           # Generate file structures
+# sphinx-intl update -p _locale -l zh_CN      # Update translation files
+
+# po files will be created in this directory
+# path is example but recommended.
+locale_dirs = ['_locale']
+gettext_compact = False  # optional
 
 # -- Options for HTML output -------------------------------------------------
 

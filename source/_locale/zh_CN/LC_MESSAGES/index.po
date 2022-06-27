@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022 iXOR Technology & Cubik65536
+# This file is distributed under the same license as the RemoteMC package.
+# Cubik65536 <cubik65536@cubik65536.top>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RemoteMC \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-26 23:00-0400\n"
+"POT-Creation-Date: 2022-06-26 23:00-0400\n"
+"Last-Translator: Cubik65536 <cubik65536@cubik65536.top>\n"
+"Language: zh\n"
+"Language-Team: Chinese Simplified\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../index.rst:6
+msgid "Contents:"
+msgstr "章节："
+
+#: ../index.rst:2
+msgid "Sphinx 项目模板"
+msgstr ""
+
+#: ../index.rst:4
+msgid "Fill in  this text with your own intro text"
+msgstr "在此处填入内容"
+
