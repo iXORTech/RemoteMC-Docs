@@ -6,6 +6,12 @@
   <b>RemoteMC 系列用户与开发者手册</b>
 </p>
 
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-important?style=for-the-badge" />
+  </a>
+</p>
+
 ## 贡献文档指南
 
 ### 安装文档所需依赖
@@ -42,3 +48,17 @@ sphinx-intl update -p _locale -l zh_CN
 - 空的翻译字符串会被增加，用于存储新增加的内容的翻译
 - `#, fuzzy` 会被添加到被更改内容的 `msgid` 字符串的上一行。请更新翻译并移除 `#, fuzzy`。
 - 被删除的翻译内容会被移动到 `.po` 文件的末尾并被注释，请移除这些翻译。
+
+## 📜 协议&许可证
+
+> **RemoteMC-Docs 基于 [CC-BY-NC-SA-4.0 许可证](license-translations/LICENSE-zh)（[原文](LICENSE)）发行**
+
+``` text
+RemoteMC-Docs (c) 由 iXOR Techbology, Cubik65536, 以及 所有贡献者 创作.
+
+RemoteMC-Docs 根据知识共享（Creative Commons）
+署名—非商业性使用—相同方式共享 4.0 公共许可协议进行分发。
+
+您应该已经收到了一份许可证的副本。如果没有，
+请参见 <http://creativecommons.org/licenses/by-nc/4.0/>。
+```

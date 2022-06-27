@@ -6,6 +6,12 @@
   <b>User and Dev documentations of RemoteMC Series</b>
 </p>
 
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-important?style=for-the-badge" />
+  </a>
+</p>
+
 ## Guide to contribute to the documentation
 
 ### Install the requirements
@@ -44,3 +50,17 @@ This step will generate some `.po` files in `source/_locale/zh_CN` directory, wh
 - Empty translations will be generated for new content.
 - `#, fuzzy` comments will be added to the translation for changed texts. Update the translation and remove the `#, fuzzy` comment.
 - Translations for removed texts will be moved to the bottom of the `.po` file and be commented out, you should remove them.
+
+## 📜 License
+
+> **RemoteMC-Docs is licensed under [CC-BY-NC-SA-4.0 License](LICENSE).**
+
+``` text
+RemoteMC-Docs (c) by iXOR Techbology, Cubik65536, and contributors.
+
+RemoteMC-Docs is licensed under a
+Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-nc/4.0/>.
+```
