@@ -40,8 +40,6 @@ If you need to change the language of the generated documentation, you can modif
 (This step uses Simplified Chinese as an example, if you need to use other languages, replace `zh_CN` with your designated language)
 
 ``` bash
-
-``` bash
 cd source
 sphinx-build -b gettext . _locale
 sphinx-intl update -p _locale -l zh_CN
