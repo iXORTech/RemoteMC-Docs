@@ -14,6 +14,8 @@
 
 ## 贡献文档指南
 
+**您的提交信息应当遵守 [约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0/) 规则**
+
 ### 安装文档所需依赖
 
 ``` bash

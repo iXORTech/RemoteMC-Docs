@@ -14,6 +14,8 @@
 
 ## Guide to contribute to the documentation
 
+**Your commit messages should follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines**.
+
 ### Install the requirements
 
 ``` bash
