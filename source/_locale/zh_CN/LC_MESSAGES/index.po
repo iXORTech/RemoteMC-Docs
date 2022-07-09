@@ -24,8 +24,8 @@ msgid "Contents:"
 msgstr "章节："
 
 #: ../index.rst:2
-msgid "Sphinx 项目模板"
-msgstr ""
+msgid "Sample Sphinx Project"
+msgstr "Sphinx 项目模板"
 
 #: ../index.rst:4
 msgid "Fill in  this text with your own intro text"
