@@ -33,7 +33,7 @@ make html
 
 文档会在 `docs/html` 目录下以 `zh_CN`（简体中文）生成。
 
-如果你需要更改生成的语言，可以将 `source/conf.py` 文件中第 69 行 `language = os.environ.get('READTHEDOCS_LANGUAGE', 'zh_CN')` 中的 `zh_CN` 改为你想要的语言。
+如果你需要更改生成的语言，可以将 `source/conf.py` 文件中第 59 行 `language = os.environ.get('READTHEDOCS_LANGUAGE', 'zh_CN')` 中的 `zh_CN` 改为你想要的语言。
 
 ### 更新翻译文件
 

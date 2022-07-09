@@ -33,7 +33,7 @@ make html
 
 The documentation will be generated in `docs/html` directory in `zh_CN` (Simplified Chinese).
 
-If you need to change the language of the generated documentation, you can modify the `zh_CN` of `language = os.environ.get('READTHEDOCS_LANGUAGE', 'zh_CN')` of line 69 of `source/conf.py` file to your designated language.
+If you need to change the language of the generated documentation, you can modify the `zh_CN` of `language = os.environ.get('READTHEDOCS_LANGUAGE', 'zh_CN')` of line 59 of `source/conf.py` file to your designated language.
 
 ### Update the translation files
 
